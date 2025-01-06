@@ -7,6 +7,7 @@
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](https://www.donatogiovannelli.com)
 [![funded-by-PON](https://img.shields.io/badge/Funded%20by-PON-32a852.svg)]([https://erc.europa.eu/homepage](https://www.ponricerca.gov.it/opportunita/riprogrammazione-react-eu/react-eu-dottorati-di-ricerca-innovazione-e-green/))
 [![forged-with-Hydrogen](https://img.shields.io/badge/Forged%20with-Hydrogen-32a852.svg)]()
+[![DOI](https://zenodo.org/badge/912943500.svg)](https://doi.org/10.5281/zenodo.14606251)
 
 Supporting data relative to the Cascone et al. 2025 manuscript on hydrogenotrophic metabolisms in the subsurface and their implications for underground hydrogen storage and natural hydrogen prospecting. 
 
